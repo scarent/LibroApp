@@ -19,7 +19,7 @@ class WishlistActivity : AppCompatActivity() {
                     true
                 }
                 R.id.nav_buscar -> {
-                    // intentar abrir el busqueda
+                    // intentar abrir el busqueda a
                     true
                 }
                 R.id.nav_catalogo -> {
